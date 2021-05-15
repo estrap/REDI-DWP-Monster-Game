@@ -16,4 +16,5 @@ elif player_choice == '2':
   print('Heal player -Huurry!')
 
 else:
+
   print('Something went wrong. I did not understand you. Do you want to try again?'
